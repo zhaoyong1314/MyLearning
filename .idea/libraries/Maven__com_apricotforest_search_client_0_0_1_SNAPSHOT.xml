@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.apricotforest:search-client:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/apricotforest/search-client/0.0.1-SNAPSHOT/search-client-0.0.1-20150527.111629-10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/apricotforest/search-client/0.0.1-SNAPSHOT/search-client-0.0.1-20150527.111629-10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/apricotforest/search-client/0.0.1-SNAPSHOT/search-client-0.0.1-20150527.111629-10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../casefolder-activitycenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../casefolder-medical" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../casefolder-medical/medical-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../casefolder-medical/medical-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../casefolder-medical/medical-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../old-casefolder-db-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../old-casefolder-servlet-service" charset="UTF-8" />
+  </component>
+</project>

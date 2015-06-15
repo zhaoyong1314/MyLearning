@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="casefolder-activitycenter:war">
+    <output-path>$PROJECT_DIR$/../casefolder-activitycenter/target</output-path>
+    <root id="archive" name="casefolder-activitycenter-dev-local.war">
+      <element id="artifact" artifact-name="casefolder-activitycenter:war exploded" />
+    </root>
+  </artifact>
+</component>

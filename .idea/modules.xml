@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../old-casefolder-db-service/CaseFolderDbService.iml" filepath="$PROJECT_DIR$/../old-casefolder-db-service/CaseFolderDbService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../old-casefolder-servlet-service/CaseFolderServletService.iml" filepath="$PROJECT_DIR$/../old-casefolder-servlet-service/CaseFolderServletService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning.iml" filepath="$PROJECT_DIR$/Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../casefolder-activitycenter/casefolder-activitycenter.iml" filepath="$PROJECT_DIR$/../casefolder-activitycenter/casefolder-activitycenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../casefolder-medical/casefolder-medical.iml" filepath="$PROJECT_DIR$/../casefolder-medical/casefolder-medical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticserch/elasticserch.iml" filepath="$PROJECT_DIR$/elasticserch/elasticserch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../casefolder-medical/medical-api/medical-api.iml" filepath="$PROJECT_DIR$/../casefolder-medical/medical-api/medical-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../casefolder-medical/medical-client/medical-client.iml" filepath="$PROJECT_DIR$/../casefolder-medical/medical-client/medical-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../casefolder-medical/medical-service/medical-service.iml" filepath="$PROJECT_DIR$/../casefolder-medical/medical-service/medical-service.iml" />
+    </modules>
+  </component>
+</project>

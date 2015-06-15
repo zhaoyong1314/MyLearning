@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CaseFolderServletService:war">
+    <output-path>$PROJECT_DIR$/../old-casefolder-servlet-service/target</output-path>
+    <root id="archive" name="CaseFolderServletService-dev-local.war">
+      <element id="artifact" artifact-name="CaseFolderServletService:war exploded" />
+    </root>
+  </artifact>
+</component>

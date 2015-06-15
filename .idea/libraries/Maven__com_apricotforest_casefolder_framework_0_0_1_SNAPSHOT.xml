@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.apricotforest:casefolder-framework:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/apricotforest/casefolder-framework/0.0.1-SNAPSHOT/casefolder-framework-0.0.1-20150610.074357-27.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/apricotforest/casefolder-framework/0.0.1-SNAPSHOT/casefolder-framework-0.0.1-20150610.074357-27-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/apricotforest/casefolder-framework/0.0.1-SNAPSHOT/casefolder-framework-0.0.1-20150610.074357-27-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
