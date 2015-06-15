@@ -2,9 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="" />
-    <mapping directory="$PROJECT_DIR$/../casefolder-activitycenter" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../casefolder-medical" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../old-casefolder-db-service" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../old-casefolder-servlet-service" vcs="Git" />
   </component>
 </project>
